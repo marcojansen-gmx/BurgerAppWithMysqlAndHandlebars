@@ -1,5 +1,6 @@
+DROP DATABASE IF EXISTS burger_db; 
 CREATE DATABASE burger_db;
-USE cat_db;
+USE burger_db;
 
 CREATE TABLE burgers
 (
